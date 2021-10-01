@@ -16,7 +16,7 @@ A free, open source audio editor based on Audacity. Saucedacity has the same fea
 * Analysis and visualization tools to analyze audio, or other signal data.
 
 # Releases
-Be sure to check the [releases page](https://github.com/generic-pers0n/saucedacity/releases). The latest release is 1.0.
+Be sure to check the [releases page](https://github.com/generic-pers0n/saucedacity/releases). The latest release is 1.1.
 
 # Contributing
 Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/generic-pers0n/saucedacity/blob/main/CONTRIBUTING.md).
