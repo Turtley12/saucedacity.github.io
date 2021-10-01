@@ -16,11 +16,11 @@ A free, open source audio editor based on Audacity. Saucedacity has the same fea
 * Analysis and visualization tools to analyze audio, or other signal data.
 
 # Releases
-Be sure to check the [releases page](https://github.com/generic-pers0n/saucedacity/releases). The latest release is 1.1.
+Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest release is 1.1.
 
 # Contributing
-Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/generic-pers0n/saucedacity/blob/main/CONTRIBUTING.md).
+Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md).
 
-If you do know how to code, C++ is required, as Saucedacity is written in C++. If you know Rust, however, we might accept contributions including Rust code (**not guaranteed**, see [#2](https://github.com/generic-pers0n/issues/2) in our issue tracker for details).
+If you want to contribute code, however, you need to know C++ as Saucedacity is written in C++. If you know Rust, however, we might accept contributions including Rust code (**not guaranteed**, see [#2](https://github.com/saucedacity/saucedacity/issues/2) in our issue tracker for details).
 
-Regardless, you can find issues in our issue tracker, found [here](https://github.com/generic-pers0n/saucedacity/issues), that always need fixing.
+Regardless, you can find issues in our issue tracker, found [here](https://github.com/saucedacity/saucedacity/issues), that always need fixing.
