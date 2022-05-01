@@ -20,7 +20,9 @@ Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/
 
 ## System Requirements
 **Windows**: Windows 8 or later. Windows 7 should work, but that's untested.
+
 **macOS**: 10.12 or later. **Earlier versions will not work (or are not believed to work)**.
+
 **Linux**: Binaries are build on Ubuntu 20.04. Should work on most distros.
 
 # Contributing
