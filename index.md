@@ -16,11 +16,14 @@ A free, open source audio editor based on Audacity. Saucedacity has the same fea
 * Analysis and visualization tools to analyze audio, or other signal data.
 
 # Releases
-Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest release is 1.1.
+Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest release is 1.1, with 1.2 nightly builds being made available for Windows (zip and installers), macOS (**experimental**, DMG), and Linux (AppImage).
+
+## System Requirements
+**Windows**: Windows 8 or later. Windows 7 should work, but that's untested.
+**macOS**: 10.12 or later. **Earlier versions will not work (or are not believed to work)**.
+**Linux**: Binaries are build on Ubuntu 20.04. Should work on most distros.
 
 # Contributing
-Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md).
-
-If you want to contribute code, however, you need to know C++ as Saucedacity is written in C++. If you know Rust, however, we might accept contributions including Rust code (**not guaranteed**, see [#2](https://github.com/saucedacity/saucedacity/issues/2) in our issue tracker for details).
+Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md). If you want to contribute code, however, you need to know C++ as Saucedacity is written in C++.
 
 Regardless, you can find issues in our issue tracker, found [here](https://github.com/saucedacity/saucedacity/issues), that always need fixing.
