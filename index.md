@@ -2,6 +2,9 @@
 
 A free, open source audio editor based on Audacity. Saucedacity has the same features as Audacity in addition to using the same project format. However, we've removed the autoupdater and telemetry that originally came with Audacity. We're more than just that, though.
 
+# Screenshot
+[![](saucedacity.png)](saucedacity.png)
+
 # Features
 
 * Recording from any real, or virtual audio device that is available to the host system.
