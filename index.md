@@ -1,6 +1,6 @@
 # Saucedacity
 
-A free, open source audio editor based on Audacity. Saucedacity has the same features as Audacity except any networking and we have improvements.
+A free, open source audio editor based on Audacity. Saucedacity has the same features as Audacity but without any networking and with improvements.
 
 # Screenshot
 [![](saucedacity.png)](saucedacity.png)
@@ -19,7 +19,7 @@ A free, open source audio editor based on Audacity. Saucedacity has the same fea
 * Analysis and visualization tools to analyze audio, or other signal data.
 
 # Releases
-Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest stable release is Saucedacity 1.2.
+You can check out our latest releases [here](https://github.com/saucedacity/saucedacity/releases). The latest stable release is Saucedacity 1.2, released on 2022-08-03.
 
 ## System Requirements
 
@@ -36,6 +36,6 @@ Windows 7 extended support ended on January 14, 2020. This means that Windows 7 
 In response to this situation, **Saucedacity will continue to support Windows 7 until either Saucedacity/Tenacity 2.0 (the planned migraiton to Qt) or until Visual Studio drops support for Windows 7 targets**. We will fix bugs and provide updates for Windows 7 users for the forseeable future. **This policy will also apply to Windwos 8/8.1 users**.
 
 # Contributing
-Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md). If you want to contribute code, however, you need to know C++ as Saucedacity is written in C++.
+We welcome all kinds of contributions! We have some tasks that _don't_ involve coding, but we also accept contributions to a wide-range of things in Saucedacity.
 
-Regardless, you can find issues in our issue tracker, found [here](https://github.com/saucedacity/saucedacity/issues), that always need fixing.
+To start contributing, find an issue [here](https://github.com/saucedacity/saucedacity/issues) and start a PR. Please read the contributing requirements in [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md) for more information.
