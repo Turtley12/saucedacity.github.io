@@ -38,4 +38,4 @@ In response to this situation, **Saucedacity will continue to support Windows 7 
 # Contributing
 We welcome all kinds of contributions! We have some tasks that _don't_ involve coding, but we also accept contributions to a wide-range of things in Saucedacity.
 
-To start contributing, find an issue [here](https://github.com/saucedacity/saucedacity/issues) and start a PR. Please read the contributing requirements in [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md) for more information.
+To start contributing, find an issue to work on [here](https://github.com/saucedacity/saucedacity/issues). Please read the contributing requirements in [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md) for more information.
