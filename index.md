@@ -1,6 +1,6 @@
 # Saucedacity
 
-A free, open source audio editor based on Audacity. Saucedacity has the same features as Audacity in addition to using the same project format. However, we've removed the autoupdater and telemetry that originally came with Audacity. We're more than just that, though.
+A free, open source audio editor based on Audacity. Saucedacity has the same features as Audacity except any networking and we have improvements.
 
 # Screenshot
 [![](saucedacity.png)](saucedacity.png)
@@ -19,14 +19,21 @@ A free, open source audio editor based on Audacity. Saucedacity has the same fea
 * Analysis and visualization tools to analyze audio, or other signal data.
 
 # Releases
-Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest release is 1.1, with 1.2 nightly builds being made available for Windows (zip and installers), macOS (**experimental**, DMG), and Linux (AppImage).
+Be sure to check the [releases page](https://github.com/saucedacity/saucedacity/releases). The latest stable release is Saucedacity 1.2.
 
 ## System Requirements
-**Windows**: Windows 8 or later. Windows 7 should work, but that's untested.
 
-**macOS**: 10.12 or later. **Earlier versions will not work (or are not believed to work)**.
+Saucedacity runs on the following:
+* Windows 7 or later (32 or 64 bit)
+* macOS 10.12 or later
+* Ubuntu 20.04 or later (or any equivalent distro)
 
-**Linux**: Binaries are build on Ubuntu 20.04. Should work on most distros.
+**Note that you will need a CPU with SSE2 support.** This is only an issue if you are planning to run Saucedacity on older hardware.
+
+### Note on Windows 7 Support
+Windows 7 extended support ended on January 14, 2020. This means that Windows 7 will no longer receive any updates of any kind.
+
+In response to this situation, **Saucedacity will continue to support Windows 7 until either Saucedacity/Tenacity 2.0 (the planned migraiton to Qt) or until Visual Studio drops support for Windows 7 targets**. We will fix bugs and provide updates for Windows 7 users for the forseeable future. **This policy will also apply to Windwos 8/8.1 users**.
 
 # Contributing
 Want to contribute? Feel free to! No knowledge of coding required, as we still have a couple of tasks to be done that _don't_ involve coding. For more info, see [CONTRIBUTING.md](https://github.com/saucedacity/saucedacity/blob/main/CONTRIBUTING.md). If you want to contribute code, however, you need to know C++ as Saucedacity is written in C++.
